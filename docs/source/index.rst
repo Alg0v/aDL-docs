@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to algov's Directmedia Layer's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**aDL** is a C++ library for game devlopment
+that makes it easy to make a C++ game.
+It is simple to use while keeping a lot of possibilities.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+First, read how to install the library here : :doc:`installation` Check out the :doc:`quickstart` section to get started with aDL, read :doc:`usage` to have a look to all the features included in aDL.
 
 .. note::
 
@@ -17,6 +15,6 @@ Contents
 --------
 
 .. toctree::
-
+   installation
+   quickstart
    usage
-   api
